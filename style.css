@@ -4,7 +4,7 @@ html,body{
 }
 
 .manit {
-	padding-left: 29%;
+	
 	font-weight:300;
 
 
@@ -19,7 +19,7 @@ html,body{
 	color:#fff;
 	text-align: center;
 	font-size: 6rem;
-	height:920px;
+	height:900px;
 	
 	font-family:'Tillana', cursive;
 	background-image: url('background.jpg');
